@@ -7,6 +7,9 @@ The OSM Nominatim API was chosen to be used to avoid fees from other geocoding p
 Screenshot Of Traffic Collision Data Visualization
 ![](reported-collisions-heatmap.png)
 
+Other Observations: 
+- Between 2PM and 7PM is when the most reported collisions and injuries occur.
+
 Dataset: https://data.sandiego.gov/datasets/police-collisions/
 
 OpenSteetMap Geocoding API: https://www.openstreetmap.org/
