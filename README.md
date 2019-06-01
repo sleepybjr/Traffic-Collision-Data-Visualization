@@ -1,4 +1,4 @@
-Traffic Collision Data Visualization
+<b>Traffic Collision Data Visualization</b>
 
 This project uses the traffic collision reports data (2017+) from the official San Diego government website. It will transform open data into coordinates using the OpenStreetMap (OSM) Nominatim geocoding API which can be used on Kepler.gl to visualize the heatmap of traffic collisions.
 
